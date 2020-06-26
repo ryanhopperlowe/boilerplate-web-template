@@ -25,7 +25,7 @@ so you can see your changes immediately
       ...
     },
     ```
-- Once the server is running, you can stop it at any time by typing Control + C `^c` in your terminal
+- Once the server is running, you can stop it at any time by typing `^c` (Control + C)  in your terminal
   
 
 ### Adding your own files and logic
