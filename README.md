@@ -17,4 +17,4 @@ intimidation that comes with setting up a development environment
 - http://localhost:3000 will be used by default (can be overridden using environment variables)
 - Upon saving any file inside of the `public/` directory, nodemon will reinstantiate the server as well as refresh the browser
 so you can see your changes immediately
-  - NOTE: nodemon is configured by default to only watch for changes on files with `.js`, `.html`, and `.css` file extentions
+  - *NOTE*: nodemon is configured by default to only watch for changes on files with `.js`, `.html`, and `.css` file extentions
