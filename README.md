@@ -20,11 +20,11 @@ so you can see your changes immediately
   - **NOTE**: nodemon is configured by default to only watch for changes on files with `.js`, `.html`, and `.css` file extentions
   - Extensions can be added/removed in `package.json` by editing the `start` script value in the `scripts` field:
     ```js
-  "scripts": {
-    "start": "nodemon --watch public -e js,html,css,{my,file,exts}",
-    ...
-  },
-  ```
+    "scripts": {
+      "start": "nodemon --watch public -e js,html,css,{my,file,exts}",
+      ...
+    },
+    ```
   - Once the server is running, you can stop it at any time by typing Control + C `^c` in your terminal
   
 
