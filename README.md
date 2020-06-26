@@ -26,6 +26,7 @@ so you can see your changes immediately
   },
   ```
   - Once the server is running, you can stop it at any time by typing Control + C `^c` in your terminal
+  
   ### Adding your own files and logic
 
   I've left things pretty open-ended for you as far as adding your own code. You're pretty much free to add as many new files/folders for your styling and logic as you please. However, a couple of things to note:
