@@ -7,16 +7,8 @@
     "start": "nodemon --watch public --watch src -e js,html,css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ryanhopperlowe/boilerplate-web-template.git"
-  },
-  "author": "Ryan Hopper-Lowe",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ryanhopperlowe/boilerplate-web-template/issues"
-  },
-  "homepage": "https://github.com/ryanhopperlowe/boilerplate-web-template#readme",
+  "author": "",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.4",
     "reload": "^3.1.0"
